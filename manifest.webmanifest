@@ -1,0 +1,17 @@
+{
+  "name": "Bé học tiếng Anh 3D",
+  "short_name": "Bé học Anh",
+  "description": "Game học từ vựng tiếng Anh cho bé với hình 3D và phát âm.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#DFF1FF",
+  "theme_color": "#DFF1FF",
+  "lang": "vi",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
